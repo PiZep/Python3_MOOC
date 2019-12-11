@@ -1,5 +1,5 @@
 <div class="licence">
-<span>Licence CC BY-NC-ND</span>
+<span><a href="https://creativecommons.org/licenses/by-nc-nd/2.0/fr/">Licence CC BY-NC-ND</a></span>
 <span>Thierry Parmentelat &amp; Arnaud Legout</span>
 <span><img src="media/both-logos-small-alpha.png" /></span>
 </div>
